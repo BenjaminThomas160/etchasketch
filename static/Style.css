@@ -1,0 +1,19 @@
+.sketchbtn{
+    font-size: larger;
+    font-family: 'Arial';
+    font-weight: bolder;
+    border-radius: 8px;
+    border-width: thin;
+    height: 10%;
+    width: 20%;
+    padding: 1px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 17, 255);
+    margin-top: 20%;
+}
+body {
+    background-image: url('/static/background.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
